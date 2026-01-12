@@ -1,4 +1,4 @@
-# Johnson-Johnson-Robotics-Controls-Job-Simulation-Forage
+# Johnson-and-Johnson-Robotics-Controls-Job-Simulation-Forage
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
